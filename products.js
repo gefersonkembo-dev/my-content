@@ -1,5 +1,5 @@
 /* 48 product slots. Publish a slot by filling its fields and setting published:true. */
-window.STORE_CONFIG={"telegramUsername":"fininhoxm","messageLanguage":"en","offerEndsAt":"2026-11-19T23:59:00+02:00","ordersCompleted":25,"umamiWebsiteId":"","brandName":"Polegada","showOffer":true,"assetBase":""};
+window.STORE_CONFIG={"telegramUsername":"Abelao","messageLanguage":"en","offerEndsAt":"2026-11-19T23:59:00+02:00","ordersCompleted":25,"umamiWebsiteId":"","brandName":"Polegada","showOffer":true,"assetBase":""};
 window.PRODUCTS=[
   {
     "id": "collection-12",
